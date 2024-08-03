@@ -8,7 +8,7 @@
   <li>Networking;<br></li>
   <li>AI dev;<br></li>
   <li>Cloud dev;<br></li>
-  <li>Testing (QoA);<br></li>
+  <li>Testing (QA);<br></li>
   <li>Linux OS.</p></li>
   </ul>
   
