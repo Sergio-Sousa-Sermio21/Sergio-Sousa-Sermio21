@@ -20,7 +20,7 @@
   <li><a href="https://github.com/Sergio-Sousa-Sermio21/Networking-with-Packet-Tracer" target="_blank">Building a network with security measures(in progress)</a></li>
   <li><a href="https://github.com/Sergio-Sousa-Sermio21/Compiladores" target="_blank">A compiler for a custom language.</a><br></li>
   <li><a href="https://github.com/Sergio-Sousa-Sermio21/CG-Rocket-Beach" target="_blank">A openGL project made with colleagues.</a><br></li>
-  <li><a href="https://github.com/Sergio-Sousa-Sermio21/CG-Rocket-Beach" target="_blank">Some html and css I made for a online free course.</a><br></li>
+  <li><a href="https://github.com/Sergio-Sousa-Sermio21/html_css_stuff" target="_blank">Some html and css I made for a online free course.</a><br></li>
   </ul></p>
 
   
